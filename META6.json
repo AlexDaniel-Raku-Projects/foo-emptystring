@@ -1,0 +1,19 @@
+{
+    "perl" : "6.d",
+    "name" : "",
+    "auth" : "github:AlexDaniel",
+    "api" : "1",
+    "version" : "0.0.1",
+    "description" : "A module to end the naming debate.",
+    "authors" : [ "Aleks-Daniel Jakimenko-Aleksejev" ],
+    "license" : "GPL-3.0-or-later",
+    "provides" : {
+        "" : "lib/EmptyString.pm6"
+    },
+    "depends" : [ ],
+    "build-depends" : [ ],
+    "test-depends" : [ ],
+    "resources" : [ ],
+    "tags": [ ],
+    "source-url" : "https://github.com/AlexDaniel/foo-emptystring.git"
+}
